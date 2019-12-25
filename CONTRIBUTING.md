@@ -26,6 +26,9 @@ For **major changes**, please build and test the documentation before submitting
   Before submitting an issue, search the archives for something similiar. We don't want duplicate issues running around. Please fill out the "new issue" form attached to each issue request to better categorize our issues.
   
   # Pull Request Submission Guidelines
+  *please only work on a feature with an open issue.
+  *make all changes in a new branch
+  *commit changes using a descriptive commit message
 
 # Ground Rules(for me and you):
 1. Be respectful and welcoming to newcomers! All questions are welcome. This is a learning process for me and you :)
